@@ -112,8 +112,8 @@ def main():
     """
     DON'T FORGET TO ENTER THE CORRECT CREDENTIALS 
     """
-    X_number = "cjestephan02"
-    PIN_number = "!ta7s24p"
+    X_number = "ENTERUSERNAME"
+    PIN_number = "ENTERPASSWORD"
 
     NowOrLater()
 
